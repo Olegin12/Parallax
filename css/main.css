@@ -51,6 +51,7 @@ body {
     text-align: center;
     overflow: hidden;
     position: relative;
+    scroll-behavior: smooth;
 }
 
 .layer {
